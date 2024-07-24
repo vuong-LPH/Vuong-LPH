@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vuong</h1>
 <h3 align="center">An enthusiastic front-end dev from VietNam, studied software Engineering at FPT University</h3>
-<iframe src="https://gifer.com/embed/2GU" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuong-lph&label=Profile%20views&color=0e75b6&style=flat" alt="vuong-lph" /> </p>
 
