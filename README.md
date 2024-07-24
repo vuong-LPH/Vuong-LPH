@@ -1,5 +1,5 @@
 
-<a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/vi/view/cat-computer-typing-fast-gif-5368357">
 
 <h1 align="center">Hi 👋, I'm Vuong</h1>
 <h3 align="center">An enthusiastic front-end dev from VietNam, studied software Engineering at FPT University</h3>
