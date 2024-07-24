@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vuong</h1>
 <h3 align="center">An enthusiastic front-end dev from VietNam, studied software Engineering at FPT University</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuong-lph&label=Profile%20views&color=0e75b6&style=flat" alt="vuong-lph" /> </p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuong-lph" alt="vuong-lph" /></a> </p>
 
