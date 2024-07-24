@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic front-end dev from VietNam, studied software Engineering at FPT University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuong-lph&label=Profile%20views&color=0e75b6&style=flat" alt="vuong-lph" /> </p>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cat-brighten-yourlaptop-aNqEFrYVnsS52"> 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuong-lph" alt="vuong-lph" /></a> </p>
 
