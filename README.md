@@ -13,9 +13,7 @@ innovation and continuous learning in collaborative environments.</h3>
 
 - 🔭 I’m currently working on **ABAP**
 
-- 🌱 I’m currently learning **ABAP**
-
-- 💬 Ask me about **ABAP, Java-script, Type-script, Front-end**
+- 💬 Ask me about **ABAP, Java-script, Type-script**
 
 - 📫 How to reach me **vuonglph1204@gmail.com**
 
