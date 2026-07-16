@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vuong</h1>
-<h3 align="center">An enthusiastic front-end dev from VietNam, studied software Engineering at FPT University</h3>
+<h3 align="center">Result-driven Software Engineer with 4 months as an internship at FPT Software and 2 years of experience specializing in SAP S/4HANA systems as SAP ABAP Technical Consultant.
+Adept at meticulously analyzing Functional Specifications (FS) to draft comprehensive Technical Specifications (TS)
+and deliver high-quality RICEFW objects. Possess foundational knowledge of SAP PI/PO to support integration
+requirements effectively while ensuring all solutions are efficient, scalable, and high-performing. Committed to
+innovation and continuous learning in collaborative environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuong-lph&label=Profile%20views&color=0e75b6&style=flat" alt="vuong-lph" /> </p>
 
