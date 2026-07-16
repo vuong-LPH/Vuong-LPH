@@ -21,8 +21,6 @@ innovation and continuous learning in collaborative environments.</h3>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/le-vương-946b5127a/](https://www.linkedin.com/in/le-vương-946b5127a/)
 
-- ⚡ Fun fact **i think i'm friendly and funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/le-vương-946b5127a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/le-vương-946b5127a/" height="30" width="40" /></a>
